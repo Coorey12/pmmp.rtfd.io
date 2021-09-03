@@ -16,17 +16,18 @@ server.properties
     #Properties Config file
     #Wed Jan 16 09:32:51 GMT 2019
     language=eng
-    motd=PocketMine-MP Server
+    motd=servidor do Eric lindo
     server-port=19132
     white-list=off
     announce-player-achievements=on
     spawn-protection=16
     max-players=20
-    gamemode=0
+    gamemode=1
+
     force-gamemode=off
     hardcore=off
-    pvp=on
-    difficulty=1
+    pvp=off
+    difficulty=3
     generator-settings=
     level-name=world
     level-seed=
